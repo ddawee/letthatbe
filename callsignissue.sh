@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 sudo -s
 cd /tmp
 wget https://github.com/DVSwitch/MMDVM_Bridge/blob/master/dvswitch.sh♥
